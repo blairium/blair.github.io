@@ -1,1 +1,3 @@
 # blair.github.io
+
+A placeholder for a future resume or something...
